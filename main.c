@@ -1,3 +1,4 @@
+// 송신부(오실로스코프)
 #include <iom128v.h>
 #include <math.h>
 #include "my128.h"
@@ -256,3 +257,4 @@ int main(void) {
     }
     return 0;
 }
+
